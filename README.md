@@ -35,7 +35,7 @@ Tons of refuse were collected during the month in a given burough and community 
 | month  | 2020 / 01 | YES  (`default= 2015 / 01`) | month= YYYY / MM|  
 
  
-*`127.0.0.1:8000/refuse/burough=<burough>&communitydistrict=<community district>&month=2020 / 01/`  
+*`127.0.0.1:8000/paper/burough=<burough>&communitydistrict=<community district>&month=2020 / 01/`  
 Tons of paper were collected during the month in a given burough and community district during January 2015 (2015/01)  
  
 | Params | Legal values | optional | format |  
@@ -45,7 +45,7 @@ Tons of paper were collected during the month in a given burough and community d
 | month  | 2020 / 01 | YES  (`default= 2015 / 01`) | month= YYYY / MM|  
  
  
-* `127.0.0.1:8000/refuse/burough=<burough>&communitydistrict=<community district>&month=2020 / 01/`  
+* `127.0.0.1:8000/mgp/burough=<burough>&communitydistrict=<community district>&month=2020 / 01/`  
 Tons of metal, glass, and plastic (MGP) were collected during the month in a given burough and community district during January 2015 (2015/01)
  
 | Params | Legal values | optional | format |  

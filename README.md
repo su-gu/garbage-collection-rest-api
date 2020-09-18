@@ -15,7 +15,7 @@
  Step 4:  
  Create the tables in the database  
  Goto garbageCollectionProject and execute  
- `python manage.py makemigratioons`  
+ `python manage.py makemigrations`  
  `python manage.py migrate`  
  
  Step 5:
